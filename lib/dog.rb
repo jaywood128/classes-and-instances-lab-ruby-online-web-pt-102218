@@ -4,4 +4,4 @@ end
 
 fiddo = Dog.new
 snoopy = Dog.new
-lassie = DOg.new
+lassie = Dog.new
